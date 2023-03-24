@@ -37,9 +37,9 @@ El tema del analisis se centra en proyectos enfocados al __Turismo__. Hemos eleg
 
 Hemos elegido dos personas jovenes que encajan con nuestro entorno estudiantil mas carcano. Estas dos personas son fisticias inspiradas en personas reales, Sara y Marta.
 
-![Método UX](P1/img/Persona2_Sara.png)
+![Método UX](P1/img/Persona1.png)
 
-![Método UX](P1/img/Persona1_Sara.png)
+![Método UX](P1/img/Persona2_Sara.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
