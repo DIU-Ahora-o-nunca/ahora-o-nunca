@@ -1,8 +1,8 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Turirmos ) 
 
 Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Updated: 23/03/2023
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,14 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   [Manuel Hidalgo Carmona](https://github.com/venrra)     :octocat:     
+ * :bust_in_silhouette:  [Maria Forencio](https://github.com/mariafd412)     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -32,26 +28,33 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+El tema del analisis se centra en proyectos enfocados al __Turismo__. Hemos elegido Teller de arteseania al pertenecer al grupo 3. Se va a acomparar con las otras ofertas turisticas Free Tour y Tablao
+
+![Método UX](P1/img/Competitor_Analysis.jpg)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos elegido dos personas jovenes que encajan con nuestro entorno estudiantil mas carcano. Estas dos personas son fisticias inspiradas en personas reales, Sara y Marta.
+
+![Método UX](P1/img/Persona2_Sara.png)
+
+![Método UX](P1/img/Persona1_Sara.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Hemos modelado una situción distinta para cada usuario que consideramos posibles y reales para un publico mas joven.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![Método UX](P1/img/User_journey1.png)
+
+![Método UX](P1/img/User_journey2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+- [Enlace al documento](P1/Usability-review-template.xls)
+- Valoración final: 
+- Comentario sobre la valoración:
 
 
 ## Paso 2. UX Design  
