@@ -3,8 +3,7 @@
 1 Empathy map
 -----
 
-![Método UX](img/Empathy?map.jpg)
-
+![Método UX](img/Empathy_Map.png)
 
 2 Competitive Analysis
 -----
@@ -18,9 +17,9 @@ El tema del analisis se centra en proyectos enfocados al __Turismo__. Hemos eleg
 
 Hemos elegido dos personas jovenes que encajan con nuestro entorno estudiantil mas carcano. Estas dos personas son fisticias inspiradas en personas reales, Sara y Marta.
 
-![Método UX](img/Persona2_Sara.png)
+![Método UX](img/Persona1.png)
 
-![Método UX](img/Persona1_Sara.png)
+![Método UX](img/Persona2_Sara.png)
 
 4 User Journey Map
 ----
@@ -34,8 +33,8 @@ Hemos modelado una situción distinta para cada usuario que consideramos posible
 5 Usability Review
 ----
 - [Enlace al documento](Usability-review-template.xls)
-- Valoración final: 
-- Comentario sobre la valoración:
+- Valoración final: __38 Poor__
 
+### BRIEFING
 
-(valoración y conclusiones de esta etapa)
+__Problemas de diseño y navegación. Confusión sobre el propósito de la web. Necesita mejoras en el proceso de compra.__

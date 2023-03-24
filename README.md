@@ -53,9 +53,11 @@ Hemos modelado una situción distinta para cada usuario que consideramos posible
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 - [Enlace al documento](P1/Usability-review-template.xls)
-- Valoración final: 
-- Comentario sobre la valoración:
+- Valoración final: __38 Poor__
 
+### BRIEFING
+
+__Problemas de diseño y navegación. Confusión sobre el propósito de la web. Necesita mejoras en el proceso de compra.__
 
 ## Paso 2. UX Design  
 
