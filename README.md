@@ -52,7 +52,7 @@ Hemos modelado una situción distinta para cada usuario que consideramos posible
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-- [Enlace al documento](P1/Usability-review.xls)
+- [Enlace al documento](./P1/Usability-review.xlsx)
 - Valoración final: __38 Poor__
 
 ### BRIEFING
