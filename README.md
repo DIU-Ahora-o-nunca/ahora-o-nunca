@@ -4,12 +4,13 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Turirmos )
 Grupo: DIU1_01AABB.  Curso: 2022/23 
 Updated: 23/03/2023
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: **NazaLine**
+
+**NazaLine** representa la line a de la artesanias nazaries, un camino que queremos recorrer junto una comunidad entusiasta que quiere compartir y mantener las Artesanias Nazaries. 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Queremos fomentar el sentimiento de comunidad por ello proponemos espandir ese concepto y solventar ademas un problema. Los usuarios normalmente quieren informacion acerca de los talleres, si les va a gustar, saber expriencias de otros usuarios etc. Queremos dar la posibilidad a los usuarios de expresar sus vivencias en los talleres, crearemos un entorno donde los usuarios puedan postear sus obras y opinar sobre los talleres y las artesanias que hagan. Ademas de crear grupos abiertos de talleres donde los usuarios de la comunidad puedan participar, conocerse y ademas abaratar el coste de los talleres.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -62,16 +63,22 @@ __Problemas de diseño y navegación. Confusión sobre el propósito de la web. 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / POV
 ----
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+### - Malla receptora de información
+
+![ScopeCanvas](./P2/sgv/MallaReceptora.svg)
+
+### - Punto de vista
+
+como complemento y para obtener mas información hacemos uso de los usuarios opara ver su punto de vista y que necesitan.
+
+![ScopeCanvas](./P2/sgv/PointOfView.svg)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -83,29 +90,77 @@ __Problemas de diseño y navegación. Confusión sobre el propósito de la web. 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![ScopeCanvas](./P2/img/Propuesta_de_valor_scope_canvas.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+|     **_Usuario\ <br>Tareas_**    	| **Contraran telleres** 	| **Coriosos por artesania** 	| **Curiosos por el teller** 	|
+|:--------------------------------------------	|:----------------------:	|:--------------------------:	|:--------------------------:	|
+|              **iniciar sesiron**             	|            H           	|              L             	|              L             	|
+|    **Busca información <br>de arteasania**   	|            H           	|              H             	|              M             	|
+|      **Busca información <br>de taller**     	|            H           	|              M             	|              H             	|
+|               **Busca ofertas**              	|            H           	|              L             	|              H             	|
+|         **Busca <br>colaboraciónes**         	|            M           	|              M             	|              M             	|
+|          **Publicar su experiencia**         	|            M           	|              L             	|              L             	|
+| **Revisar la experiencia de otros usuarios** 	|            H           	|              L             	|              H             	|
+|              **Reservar taller**             	|            H           	|              L             	|              H             	|
+|              **Cancelar Taller**             	|            M           	|             NA             	|              L             	|
+|             **Modificar caller**             	|            H           	|             NA             	|              L             	|
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+### Site Map
 
->>> Identificar términos para diálogo con usuario  
+![ScopeCanvas](./P2/img/Site_Map.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+### Labelling
+
+| **_Labeling_**         	| **_Descripción_** 	|
+|------------------------	|-------------------	|
+| **Inicio**             	| Portada yu entrada a al sitio. |
+| **Sobre nosostros**    	| Explicacion de taller a nivel profesional y explicacion organizacion empresarial. |
+| **Maestros Artesanos** 	| Explicacion sobre metodos, herramientas y maestros artsanos dentro del taller y dentro de la organizacion. |
+| **Colaboraciones**     	| Exposicion colaboraciones y trabajos hechos desde el taller. Los tranajos realizados a otras empresas e identidades. |
+| **Contacto**           	| Formularios y datos de contacto. |
+| **Nuestro trabajo**    	| Los trabajos realizados dentro de la organiazcion.  |
+| **Materiales**         	| Mas informacion acerca de los materiales. |
+| **Galeria**         	    | Todos los complementos de videos y fotos. |
+| **Artesanias**         	| Mas informacion acerca de las artesanias. |
+| **Talleres**           	| Explicacion sobre los talleres. |
+| **Ofertas**            	| Dentro de los talleres que ofertas se ofrecen. |
+| **Reservar taller**    	| Punto de reserva y gestion de los talleres. |
+| **Comunidad**          	| Portal donde se pueder ver todas las publicaciones y comentarios de los usuarios. |
+| **Tienda**             	| En lace de la aplicacion de artesanias nazaries. |
+| **Iniciar sesión**     	| inicio de sesion y gestion de usuarios. |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+- Inicio
+
+![inicio](./P2/sgv/Prototipo_LoFi/Inicio.svg)
+
+- Comunidad
+
+![comunidad](./P2/sgv/Prototipo_LoFi/Comunidad.svg)
+
+- Inicio (smartphone)
+
+<p align="center">
+    <img src="./P2/sgv/Prototipo_LoFi/movili-inicio.svg">
+</p>
+
+- comunidad (smartphone)
+
+<p align="center">
+    <img src="./P2/sgv/Prototipo_LoFi/movil-comunidad.svg">
+</p>
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)

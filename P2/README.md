@@ -1,8 +1,18 @@
 # Practica2. DISEÑO DE BOCETOS: Propuesta de Valor sobre negocio turístico
 
+
 En esta etapa nos centrarmos en dar una propuesta de valor al caso de estudio de artesanias nazaries. Para ello vamos acentrar en la interacción de de los usuarios creados en la etapa anterior. Se buscara los puntos fuertes y caosas a mejorar del sitio, concluyendo con una propuesta de valor y un diseño preliminar de baja fidelidad.
 
-Como adelano el diseño y motivación se centran en los usuario que y el sentimiento de comunidad al rededor de las artesanias nazaries. Mantenderemos todo el trasfondo de artesanias pero bien separados de la comunidad.
+---
+
+Proyecto: 
+- **NazaLine**
+
+**NazaLine** representa la line a de la artesanias nazaries, un camino que queremos recorrer junto una comunidad entusiasta que quiere compartir y mantener las Artesanias Nazaries. 
+
+**Descripción**: 
+
+Queremos fomentar el sentimiento de comunidad por ello proponemos espandir ese concepto y solventar ademas un problema. Los usuarios normalmente quieren informacion acerca de los talleres, si les va a gustar, saber expriencias de otros usuarios etc. Queremos dar la posibilidad a los usuarios de expresar sus vivencias en los talleres, crearemos un entorno donde los usuarios puedan postear sus obras y opinar sobre los talleres y las artesanias que hagan. Ademas de crear grupos abiertos de talleres donde los usuarios de la comunidad puedan participar, conocerse y ademas abaratar el coste de los talleres.
 
 ---
 
