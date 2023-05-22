@@ -5,13 +5,13 @@
 ### __LOGO__
 
 <p align="center">
-    <img src="./img/logo.svg#center">
+    <img src="./img/logo.svg">
 </p>
 
 ### __MoodBoard__
 
 <p align="center">
-    <img src="./img/moodboard.png#center">
+    <img src="./img/moodboard.png">
 </p>
 
 ## Landing Page
@@ -36,12 +36,12 @@ Estos patrones de diseño han sido seleccionados para realzar la experiencia del
 
 ### Vista Inicio iPhone
 <p align="center">
-    <img src="./img/iPhone14-1.png#center">
+    <img src="./img/iPhone14-1.png">
 </p>
 
 ### Vista Cominuidad iPhone
 <p align="center">
-    <img src="./img/iPhone14-2.png#center">
+    <img src="./img/iPhone14-2.png">
 </p>
 
 ## Documentación: Publicación del Case Study
